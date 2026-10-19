@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-Open/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
+<img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-AIoT/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
 <br /><br />
 
 <a href="https://docs.ai-thinker.com/"><img src="https://img.shields.io/badge/-%E6%96%87%E6%A1%A3-1F9E71?style=flat" alt="文档" /></a>
@@ -15,24 +15,14 @@
 
 本组织集中收录安信可官方开源项目，包括模组 SDK 与中间件、SCBB 跨平台通用模块驱动库、FlashKey 烧录调试工具与 MCP/Skills 生态、LoRaWAN 与雷达方案等。
 
-## 问题请教与讨论
-
-在这里，你可以提问交流，也可以分享自己的项目、教程和使用心得。点击下方卡片，即可快速前往讨论区。
-
-<div align="center">
-
-[![讨论区](discussions-card-zh.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
-
-</div>
-
 ## 推荐仓库
 
 这里集中了团队常用的仓库。点击卡片即可跳转。
 
 <div align="center">
-  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-zh-v2.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-zh-v2.svg" alt="Ai-WB2 SDK" width="360" /></a>
+  <a href="https://github.com/Ai-Thinker-AIoT/skills"><img src="repo-skills-zh-v2.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-AIoT/Ai-Thinker-WB2"><img src="repo-aiwb2-zh-v2.svg" alt="Ai-WB2 SDK" width="360" /></a>
   <br/><br/>
-  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-zh-v2.svg" alt="安信可中间件" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-zh-v2.svg" alt="SIG Mesh SDK" width="360" /></a>
+  <a href="https://github.com/Ai-Thinker-AIoT/aithinker_dev_open_sdk"><img src="repo-middleware-zh-v2.svg" alt="安信可中间件" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-AIoT/Telink_SIG_Mesh"><img src="repo-sigmesh-zh-v2.svg" alt="SIG Mesh SDK" width="360" /></a>
 </div>

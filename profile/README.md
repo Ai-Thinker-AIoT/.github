@@ -19,9 +19,14 @@ Ai-Thinker Technology, headquartered in Shenzhen, focuses on the R&D and manufac
 
 This organization hosts Ai-Thinker's official open-source projects, including module SDKs & middleware, the SCBB cross-platform module driver library, the FlashKey flashing/debugging tool with its MCP & Skills ecosystem, and LoRaWAN / radar solutions.
 
-## Questions & Discussions
+## Recommended Repositories
 
-Here you can ask questions, join discussions, and share your projects, tutorials, and hands-on tips. Click the card below to go there quickly.
+Here are the frequently used repositories. Click a card to jump to it.
 
-
-
+<div align="center">
+  <a href="https://github.com/Ai-Thinker-AIoT/skills"><img src="repo-skills-en-v2.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-AIoT/Ai-Thinker-WB2"><img src="repo-aiwb2-en-v2.svg" alt="Ai-WB2 SDK" width="360" /></a>
+  <br/><br/>
+  <a href="https://github.com/Ai-Thinker-AIoT/aithinker_dev_open_sdk"><img src="repo-middleware-en-v2.svg" alt="Ai-Thinker Middleware" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-AIoT/Telink_SIG_Mesh"><img src="repo-sigmesh-en-v2.svg" alt="SIG Mesh SDK" width="360" /></a>
+</div>
