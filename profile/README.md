@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-Open/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
+<img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-AIoT/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
 <br /><br />
 
 <a href="https://docs.ai-thinker.com/en/"><img src="https://img.shields.io/badge/-Docs-1F9E71?style=flat" alt="Docs" /></a>
