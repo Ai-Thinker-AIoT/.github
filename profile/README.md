@@ -23,20 +23,5 @@ This organization hosts Ai-Thinker's official open-source projects, including mo
 
 Here you can ask questions, join discussions, and share your projects, tutorials, and hands-on tips. Click the card below to go there quickly.
 
-<div align="center">
 
-[![Discussions](discussions-card-en-v2.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
 
-</div>
-
-## Recommended Repositories
-
-Here are the frequently used repositories. Click a card to jump to it.
-
-<div align="center">
-  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-en-v2.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-en-v2.svg" alt="Ai-WB2 SDK" width="360" /></a>
-  <br/><br/>
-  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-en-v2.svg" alt="Ai-Thinker Middleware" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-en-v2.svg" alt="SIG Mesh SDK" width="360" /></a>
-</div>
